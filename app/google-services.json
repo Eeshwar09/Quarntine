@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "255986533211",
+    "firebase_url": "https://quarntine-9549a.firebaseio.com",
+    "project_id": "quarntine-9549a",
+    "storage_bucket": "quarntine-9549a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255986533211:android:c1b60320692a043429907e",
+        "android_client_info": {
+          "package_name": "com.example.quarntine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255986533211-biea9je1ihbl0d9h8t3s97jemoiottk1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.quarntine",
+            "certificate_hash": "26f2f00661632ca256edf2f396784c9022401af1"
+          }
+        },
+        {
+          "client_id": "255986533211-jojbjjvgd726oifr1eip9mntqjesns89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoOYprMbHi9LYgLDsMB2Zt5mAWBTgIieE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255986533211-jojbjjvgd726oifr1eip9mntqjesns89.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
